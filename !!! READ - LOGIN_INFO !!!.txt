@@ -1,0 +1,2 @@
+For logging in into the app you can use whatever fake email address you want as long as it is in the email format (something@something).
+For the password field you can also input whatever you want but it has to be at least 6 characters long.
